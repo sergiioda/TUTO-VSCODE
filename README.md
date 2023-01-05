@@ -69,3 +69,5 @@ app.listen(3000,()=>{
 * [ ] task 1 marcada
 
 :smile:
+
+@sergi02020 :+1:
