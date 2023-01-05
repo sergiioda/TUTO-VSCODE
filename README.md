@@ -62,10 +62,10 @@ app.listen(3000,()=>{
 
 * [x] task 1 marcada
 
-* [] task 1 marcada
+* [ ] task 1 marcada
 
-* [] task 1 marcada
+* [ ] task 1 marcada
 
-* [] task 1 marcada
+* [ ] task 1 marcada
 
-
+:smile:
